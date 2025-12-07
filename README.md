@@ -1,4 +1,4 @@
-# Psychology Referral Bot
+# Referral Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-3.4.1-2CA5E0?logo=telegram&logoColor=white)
