@@ -34,7 +34,7 @@ and everyone sees how many people they’ve invited.
 
 
 
-# Психологический реферальный бот
+# Реферальный бот
 
 ![Python](https://img.shields.io/badge/Язык-Python_3.10%2B-3776AB?logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/Фреймворк-aiogram_3.x-2CA5E0?logo=telegram&logoColor=white)
